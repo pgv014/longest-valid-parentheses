@@ -14,4 +14,4 @@ This solution uses a stack of indices.
 ## Complexity
 
 - Time: O(n)
-- Space: O(n)
+- Space: O(n).
